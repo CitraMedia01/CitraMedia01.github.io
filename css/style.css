@@ -1,0 +1,41 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* STYLE JUDUL */
+hr {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px black;
+}
+
+/* STYLE PRODUK */
+.menu {
+  font-weight: 400;
+  background-color: rgb(248, 248, 248);
+  min-height: 120px;
+}
+
+.kategori {
+  margin-top: 20px;
+}
+
+.ti {
+  width: 80px;
+  height: 75px;
+}
+
+.snack {
+  width: 100%;
+}
+
+.produk {
+  font-weight: 500;
+  font-size: .7em;
+}
+
+.harga {
+  font-size: .6em;
+  color: rgb(112, 112, 112);
+}
