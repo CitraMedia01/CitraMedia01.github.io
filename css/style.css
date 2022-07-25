@@ -2,6 +2,20 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.header {
+  height: 565px;
+  position: relative;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  
+}
+
 /* STYLE JUDUL */
 hr {
   width: 50%;
@@ -18,7 +32,7 @@ hr {
 }
 
 .kategori {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .ti {
